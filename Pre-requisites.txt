@@ -1,0 +1,11 @@
+- AWS account and familiarity with AWS EC2
+
+- Docker Hub account
+
+- Familiarity with Git version control and experience with command line interface
+
+- Github account
+
+- Understanding of the Flask application framework and Docker containerization technology
+
+Flask==2.1.0 as a requirement
